@@ -20,7 +20,8 @@ quantitative analysis can be and how it can improve our historical knowledge.</p
 <h3 class="code-line" data-line-start=29 data-line-end=30 ><a id="Additional_figures_29"></a>Additional figures:</h3>
 <p class="has-line-data" data-line-start="30" data-line-end="31">contains all of the other figures not mentioned nor shown on the report. The ‘Histogrammes’ file contains many different types of histograms, ‘Images for report’ contains all the images used in the report, to have a better look at it. ‘names to correct’ is a list of uniques names that has to be corrected to avoid having duplicate names for the same person. ‘unique_names’ contains all of the unique names of the network. ‘histo top 9’ is a histogram of the top9 correspondents of Viviani. ‘total letters per year’ is a histogram of the total letters sent and received every year between 1640 and 1701.</p>
 <h3 class="code-line" data-line-start=31 data-line-end=32 ><a id="CSV_files_31"></a>CSV files:</h3>
-<p class="has-line-data" data-line-start="32" data-line-end="33">contains different CSV files:</p>
+<h3 class="code-line" data-line-start=35 data-line-end=36 ><a id="filtred_id_35"></a>raw_bdd:</h3>
+<p class="has-line-data" data-line-start="36" data-line-end="37">raw database right after initial scraping</p>
 <h3 class="code-line" data-line-start=35 data-line-end=36 ><a id="filtred_id_35"></a>filtred:</h3>
 <p class="has-line-data" data-line-start="36" data-line-end="37">all sent and received letters by Viviani</p>
 <h3 class="code-line" data-line-start=37 data-line-end=38 ><a id="sent_id__37"></a>sent:</h3>
