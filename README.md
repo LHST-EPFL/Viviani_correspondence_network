@@ -9,7 +9,7 @@ it as a tool to build a database then a network to visualize his correspondence.
 distant reading allows us to understand and discover elements of his life and career and shows how efficient a<br>
 quantitative analysis can be and how it can improve our historical knowledge.</p>
 <h2 class="code-line" data-line-start=16 data-line-end=17 ><a id="FolderFile_Organization_16"></a>Folder/File Organization:</h2>
-<h3 class="code-line" data-line-start=21 data-line-end=22 ><a id="Data_Cleaning_21"></a>Data Cleaning:</h3>
+<h3 class="code-line" data-line-start=21 data-line-end=22 ><a id="Data_Cleaning_21"></a>Data Scraping and Cleaning:</h3>
 <p class="has-line-data" data-line-start="22" data-line-end="23">notebook containing the code to scrap and clean the data</p>
 <h3 class="code-line" data-line-start=23 data-line-end=24 ><a id="Histograms_23"></a>Histograms:</h3>
 <p class="has-line-data" data-line-start="24" data-line-end="25">notebook containing the code to print many histograms that can be found on the file ‘Additional figures’</p>
